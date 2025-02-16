@@ -16,11 +16,11 @@ In the meantime feel free to explore other topics such as enum type, date and ti
             Types of data representation(1 D, 2 D)
             Pass array through function 
             Searching, sorting
-    4. Data Structure for bulding applications
+    4. Data Structures for building applications
             Array list
             Hash map 
             iterator vs for each 
-            while and hasNext() method in real use cases   
+            while loop, hasNext() method in real use cases   
     5. Object Oriented Design  
             Loosly couple 
             Open-Closed Principle 
@@ -32,6 +32,11 @@ In the meantime feel free to explore other topics such as enum type, date and ti
         rmdir directory name 
         del file 
         dir [options] [/a] [/s]
+        javac filename.java
+        java filename 
+        javac packagename/filename.java
+        java  packagename.filename 
+        type filename.java
         
 
       
