@@ -1,5 +1,5 @@
 
-# Java 🛒
+# Java 
 The concepts given below are not limited to the subject, they are just a selective part to 
 do something realistic and understand how underlying principles work together,when it comes all in a project.  
 
