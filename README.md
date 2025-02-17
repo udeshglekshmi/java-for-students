@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Java 
 The concepts given below are not limited to the subject, they are just a selective part to 
@@ -40,3 +41,5 @@ In the meantime feel free to explore other topics such as enum type, date and ti
         
 
       
+=======
+>>>>>>> fd0c0ab (Updated README locally)
