@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-
 # Java 
-The concepts given below are not limited to the subject, they are just a selective part to 
-do something realistic and understand how underlying principles work together,when it comes all in a project.  
+The concepts given below are not limited to the subject, they are just a selective part.   
 
 In the meantime feel free to explore other topics such as enum type, date and time, regex(Regular Expressions), Math Function,etc.  
 
@@ -38,8 +35,3 @@ In the meantime feel free to explore other topics such as enum type, date and ti
         javac packagename/filename.java
         java  packagename.filename 
         type filename.java
-        
-
-      
-=======
->>>>>>> fd0c0ab (Updated README locally)
