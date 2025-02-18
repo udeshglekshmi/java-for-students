@@ -1,7 +1,7 @@
 # Java 
 The concepts given below are not limited to the subject, they are just a selective part.   
 
-In the meantime feel free to explore other topics such as enum type, date and time, regex(Regular Expressions), Math Function,etc.  
+In the meantime you can explore all the other topics: Enum type, date and time, regex(Regular Expressions), Math Function,etc.  
 
 # Concept
     1. Conditional statement and iterative process
@@ -14,16 +14,16 @@ In the meantime feel free to explore other topics such as enum type, date and ti
             Types of data representation(1 D, 2 D)
             Pass array through function 
             Searching, sorting
-    4. Data Structures for building applications
+    4. Collection framework  
             Array list
             Hash map 
             iterator vs for each 
-            while loop, hasNext() method in real use cases   
+            while loop, hasNext()
     5. Object Oriented Design  
             Loosly couple 
             Open-Closed Principle 
 # Tech Stack
-            Java, VSCode editor/Eclipse 
+            Java, VSCode/Eclipse 
 # Command line Usage 
         cd directory 
         mkdir directory name 
