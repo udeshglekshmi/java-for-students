@@ -23,7 +23,7 @@ public class FindDigit {
         while(m.find()) {
             System.out.println(m.group());
         } 
-        System.out.println(extractDigit()); 
+        //System.out.println(extractDigit()); 
         inp.close();
     }
 }
